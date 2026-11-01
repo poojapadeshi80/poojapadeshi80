@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Pooja Suryavanshi! 👋
+### Senior DevOps Engineer | 5 Years Experience
 
-<!--
-**poojapadeshi80/poojapadeshi80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in automating cloud infrastructure, managing containerized environments, and building robust CI/CD pipelines. 
 
-Here are some ideas to get you started:
+* 🛠️ **My Tech Stack:** AWS, Jenkins, GitHub, Kubernetes, Terraform, Ansible
+* 💼 **Professional Experience:** 5 Years of Experience (Atos Syntel Pvt Ltd)
+* 🌐 **Connect with me:** [Insert LinkedIn Link Here]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📂 Infrastructure & Automation Projects
+
+#### 🏗️ [AWS Infrastructure as Code](Link-to-your-repo)
+Production-ready Terraform templates to provision secure cloud networks and infrastructure on AWS.
+
+#### 🔄 [Automated CI/CD Pipelines](Link-to-your-repo)
+End-to-end deployment pipelines built using Jenkins and GitHub to automate software delivery.
+
+#### ☸️ [Kubernetes & Ansible Orchestration](Link-to-your-repo)
+Configuration management and deployment playbooks using Ansible to manage Kubernetes cluster setups.
