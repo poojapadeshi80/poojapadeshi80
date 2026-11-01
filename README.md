@@ -5,4 +5,4 @@ I specialize in automating cloud infrastructure, managing containerized environm
 
 * 🛠️ **My Tech Stack:** AWS, Jenkins, GitHub, Kubernetes, Terraform, Ansible
 * 💼 **Professional Experience:** 5 Years of Experience (Atos Syntel Pvt Ltd)
-* Poojasuryavanshi241@gmail.com || 973085519
+* Poojasuryavanshi241@gmail.com || 9730885519
